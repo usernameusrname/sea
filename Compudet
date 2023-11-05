@@ -1,0 +1,22 @@
+color rgb(0, 0, 0)
+column-gap 11px
+display grid
+font-family Poppins
+font-size 16px
+font-style normal
+font-weight 300
+grid-column-end -1
+grid-column-start 1
+grid-row-end -1
+grid-row-start 1
+grid-template-columns 42.8977px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 40.5682px 42.8977px
+grid-template-rows 26.6477px 26.6477px 26.6477px 26.6477px 26.6477px 31.9659px 31.9659px 31.9659px 31.9659px 31.9659px 31.9659px 31.9659px 31.9659px 26.6477px
+height 558.636px
+letter-spacing normal
+line-height 28.8px
+overflow-wrap break-word
+position relative
+row-gap 11px
+text-transform none
+width 1334.55px
+-webkit-font-smoothing antialiased
